@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "376976258321",
+    "firebase_url": "https://lutins-bdd.firebaseio.com",
+    "project_id": "lutins-bdd",
+    "storage_bucket": "lutins-bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376976258321:android:f3d31d1a06e85532",
+        "android_client_info": {
+          "package_name": "com.example.bayram.firebaseauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376976258321-vj2pnln8n5s3erk77sp385cf3r4qqo9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ay6cCmKHAr9cbSV1Gpzbe5J1mG65OmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
